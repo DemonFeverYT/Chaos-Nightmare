@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="fleetway.png" width="1465" height="687">
+  <SubTexture name="Fleet up001.png" x="0" y="0"  width="259.56" height="309.33" frameX="-342.72" frameY="-317.52" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet up002.png" x="259.56" y="0"  width="256.41" height="309.33" frameX="-342.09" frameY="-317.52" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet up000.png" x="515.97" y="0"  width="262.71" height="309.96" frameX="-341.46" frameY="-317.52" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet down000.png" x="778.68" y="0"  width="227.43" height="337.68" frameX="-359.1" frameY="-303.66" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet down001.png" x="1006.11" y="0"  width="229.32" height="338.31" frameX="-359.1" frameY="-301.77" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet down002.png" x="1235.43" y="0"  width="229.32" height="339.57" frameX="-359.73" frameY="-299.25" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet right000.png" x="0" y="309.33"  width="263.34" height="339.57" frameX="-340.83" frameY="-303.03000000000003" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet right002.png" x="263.34" y="309.96"  width="261.45" height="341.46" frameX="-342.09" frameY="-301.77" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet left000.png" x="524.79" y="309.96"  width="226.8" height="344.61" frameX="-359.1" frameY="-300.51" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet left001.png" x="751.59" y="337.68"  width="228.06" height="347.13" frameX="-360.36" frameY="-297.99" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet left002.png" x="979.65" y="338.31"  width="227.43" height="347.13" frameX="-362.88" frameY="-297.99" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet left003.png" x="1207.08" y="339.57"  width="227.43" height="347.13" frameX="-364.14" frameY="-298.62" frameWidth="945" frameHeight="945"/>
+  <SubTexture name="Fleet right001.png" x="0" y="309.33"  width="263.34" height="339.57" frameX="-340.83" frameY="-303.03000000000003" frameWidth="945" frameHeight="945"/>
+</TextureAtlas>

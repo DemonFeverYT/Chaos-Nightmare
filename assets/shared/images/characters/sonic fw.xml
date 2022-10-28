@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sonic fw.png" width="1180" height="1265">
+  <SubTexture name="Sonic right000.png" x="0" y="0"  width="269.1" height="319.15000000000003" frameX="-352.95" frameY="-328.25" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic right001.png" x="269.1" y="0"  width="267.15000000000003" height="319.15000000000003" frameX="-354.25" frameY="-328.25" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic right002.png" x="0" y="319.15000000000003" width="319.8" height="266.5" rotated="true"  frameX="-354.25" frameY="-327.6" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic up000.png" x="319.8" y="319.15000000000003" width="311.35" height="250.9" rotated="true"  frameX="-362.05" frameY="-332.15000000000003" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic up001.png" x="536.25" y="0"  width="249.60000000000002" height="308.75" frameX="-362.7" frameY="-334.75" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic up002.png" x="319.8" y="570.0500000000001" width="306.15000000000003" height="248.3" rotated="true"  frameX="-362.7" frameY="-338" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic left002.png" x="625.95" y="570.0500000000001" width="323.05" height="232.05" rotated="true"  frameX="-377" frameY="-325.65000000000003" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic left001.png" x="631.15" y="308.75" width="322.40000000000003" height="231.4" rotated="true"  frameX="-375.7" frameY="-325.65000000000003" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic left000.png" x="625.95" y="802.1" width="320.45" height="232.05" rotated="true"  frameX="-371.8" frameY="-327.6" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic down002.png" x="0" y="585.65"  width="231.4" height="319.15000000000003" frameX="-371.8" frameY="-325.65000000000003" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic idle003.png" x="231.4" y="818.35" width="316.55" height="232.70000000000002" rotated="true"  frameX="-378.95" frameY="-326.3" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic down001.png" x="785.85" y="0" width="317.85" height="231.4" rotated="true"  frameX="-371.8" frameY="-326.95" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic down000.png" x="949" y="540.15"  width="231.4" height="316.55" frameX="-371.8" frameY="-329.55" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic idle000.png" x="0" y="904.8000000000001"  width="231.4" height="315.25" frameX="-371.8" frameY="-330.2" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic idle002.png" x="946.4" y="856.7"  width="230.1" height="315.25" frameX="-378.3" frameY="-328.25" frameWidth="975" frameHeight="975"/>
+  <SubTexture name="Sonic idle001.png" x="547.95" y="1034.15" width="313.3" height="230.75" rotated="true"  frameX="-374.40000000000003" frameY="-330.85" frameWidth="975" frameHeight="975"/>
+</TextureAtlas>
