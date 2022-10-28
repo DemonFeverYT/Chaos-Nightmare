@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				310,
+				100
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic idle"
+		},
+		{
+			"offsets": [
+				335,
+				110
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic left"
+		},
+		{
+			"offsets": [
+				295,
+				91
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic down"
+		},
+		{
+			"offsets": [
+				280,
+				106
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic up"
+		},
+		{
+			"offsets": [
+				0,
+				24
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "",
+			"indices": [],
+			"name": "MISS Sonic down"
+		},
+		{
+			"offsets": [
+				-29,
+				0
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "",
+			"indices": [],
+			"name": "MISS Sonic up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				14
+			],
+			"anim": "",
+			"fps": 7,
+			"name": "MISS Sonic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				6
+			],
+			"anim": "",
+			"fps": 7,
+			"name": "MISS Sonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-11
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "firstDeath",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "GAME OVER"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"loop": true,
+			"fps": 0,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GAME OVER loop"
+		},
+		{
+			"offsets": [
+				-27,
+				-10
+			],
+			"loop": false,
+			"fps": 0,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GAME OVER enter"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				272,
+				107
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Sonic right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic fw",
+	"position": [
+		20,
+		-90
+	],
+	"healthicon": "sonic icons",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		66,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.6,
+	"scale": 1.5
+}
